@@ -5,7 +5,7 @@ My name is Srujan Chidarla. I am a Full Stack Developer currently pursuing my Ma
 ## 🌟 About Me:
 
 - 🔭 I'm currently working as a **Full Stack Web Developer at WalletGyde**
-- 🌱 I'm focusing on **Cloud Computing and Artificial Intelligence**
+- 🌱 I'm focusing on **Full-Stack Development and Web Technologies**
 - 💼 Previously worked at **Cognizant Technology Solutions** as a Full Stack Developer
 - 🚀 Built multiple projects including weather apps, job portals, and e-commerce platforms
 - 🌍 Contributing to Google Maps as a Digital Cartography Contributor
