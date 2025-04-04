@@ -13,7 +13,7 @@ My name is Srujan Chidarla. I am a Full Stack Developer currently pursuing my Ma
 
 ## 🔗 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srujanchidarla)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srujan-chidarla/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://srujanchidarla.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srujanchidarla)
 
