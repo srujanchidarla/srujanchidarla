@@ -4,7 +4,7 @@ My name is Srujan Chidarla. I am a Full Stack Developer currently pursuing my Ma
 
 ## 🌟 About Me:
 
-- 🔭 I'm currently working as a **Full Stack Web Developer at WalletGyde**
+- 🔭 I have recently worked as a **Full Stack Web Developer at WalletGyde**
 - 🌱 I'm focusing on **Full-Stack Development and Web Technologies**
 - 💼 Previously worked at **Cognizant Technology Solutions** as a Full Stack Developer
 - 🚀 Built multiple projects including weather apps, job portals, and e-commerce platforms
@@ -14,7 +14,7 @@ My name is Srujan Chidarla. I am a Full Stack Developer currently pursuing my Ma
 ## 🔗 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/srujan-chidarla/)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://srujanchidarla.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://srujantube.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srujanchidarla)
 
 ## 💻 Technologies:
