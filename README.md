@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Srujan Chidarla. I am a Full Stack Developer currently pursuing my Master's in Computer Science at University of Maryland Baltimore County.
+My name is Srujan Chidarla. I am a Full Stack Developer currently pursuing my Master's in Computer Science at University of Fairfax.
 
 ## 🌟 About Me:
 
