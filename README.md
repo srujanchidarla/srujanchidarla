@@ -8,7 +8,7 @@ My name is **Srujan Chidarla**. I am a **Full Stack Developer** currently pursui
 - 🌱 Focusing on **Full-Stack Development, AI Integration, and Innovative Tech Solutions**
 - 💼 Previously worked at **Cognizant Technology Solutions** as a Full Stack Developer
 - 🚀 Built **13+ innovative projects** spanning AgriTech, HealthTech, EdTech, Travel Tech, and Sports Tech
-- 🌍 **Google Local Guide Level 8** with 31K+ points and 16M+ photo views
+- 🌍 **Google Local Guide Level 8** with 38K+ points and 21M+ photo views
 - 💻 Creator of **PixelPeek** Chrome extension and **TrueScreenshot** VS Code extension
 - 🏆 **Multiple state-level sports achievements** in handball and athletics
 - 🎯 **YouTube-style Portfolio:** [srujanchidarla.com](https://srujanchidarla.com) - A unique YouTube-inspired portfolio showcasing projects as videos
