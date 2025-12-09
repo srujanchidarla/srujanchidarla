@@ -160,11 +160,11 @@ My name is **Srujan Chidarla**. I am a **Full Stack Developer** currently pursui
 
 <div align="center">
 
-[![Srujan Chidarla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srujanchidarla&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/srujanchidarla)
+[![Srujan Chidarla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srujanchidarla&theme=default&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/srujanchidarla)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srujanchidarla&theme=radical&hide_border=false)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.vercel.app/?user=srujanchidarla&theme=default&hide_border=false)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srujanchidarla&layout=compact&theme=radical&hide_border=false)](https://github.com/srujanchidarla/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srujanchidarla&layout=compact&theme=default&hide_border=false)](https://github.com/srujanchidarla/github-readme-stats)
 
 </div>
 
