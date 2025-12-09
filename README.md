@@ -65,173 +65,83 @@ My name is **Srujan Chidarla**. I am a **Full Stack Developer** currently pursui
 ### 🌾 AgriWise - Complete Digital Agriculture Platform
 > **India's first comprehensive agricultural platform addressing every farming need from soil to market**
 
-**🎯 Vision:** Empower 600+ million Indian farmers with data-driven insights and comprehensive agricultural services
-
-**✨ Key Features:**
-- **Smart Soil & Crop Intelligence Engine** with AI-powered recommendations
-- **Real-Time Market Price Intelligence** from 2500+ mandis across India
-- **Weather Integration & Alerts** with hyperlocal forecasting
-- **Financial Services Integration** (crop loans, insurance, government schemes)
-- **Multi-language Support** for 22 Indian languages + local dialects
-- **Offline-first Architecture** for areas with poor connectivity
-
-**🛠️ Tech Stack:** React, Node.js, MongoDB, Express, Machine Learning, Google Maps API, TensorFlow
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/agriwise) | [Live Demo](https://agriwise.com/)
+- **🎯 Vision:** Empower 600+ million Indian farmers with data-driven insights.
+- **✨ Key Features:** Smart Soil & Crop Intelligence, Real-Time Market Price Intelligence (2500+ mandis), Weather Integration, Financial Services Integration.
+- **🛠️ Tech Stack:** React, Node.js, MongoDB, Express, Machine Learning, Google Maps API.
 
 ---
 
 ### 🎓 StudyGlobal - International Student Services Platform
 > **Comprehensive digital platform supporting international students through their entire academic journey abroad**
 
-**🎯 Vision:** Bridge the gap between academic services and practical life guidance for study abroad students
-
-**✨ Key Features:**
-- **Essential Services Hub** covering banking, insurance, housing, and mobile services
-- **Interactive Cost of Living Calculator** with real-time currency conversion
-- **University Matching Algorithm** based on student preferences and requirements
-- **Community Features & Peer Support** with mentorship programs
-- **Multi-country Service Integration** for major study destinations
-- **Secure Document Management** with cloud storage integration
-
-**🛠️ Tech Stack:** Next.js, TypeScript, MongoDB, Contentful CMS, Stripe, AWS S3, NextAuth.js
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/studyglobal) | [Live Demo](https://studyglobal.com/)
-
-**📈 Impact:** Reduced visa application processing time by 40%, helped 2,000+ users budget effectively
+- **🎯 Vision:** Bridge the gap between academic services and practical life guidance for study abroad students.
+- **✨ Key Features:** Essential Services Hub (banking, housing), Interactive Cost of Living Calculator, University Matching Algorithm, Community Features.
+- **📈 Impact:** Reduced visa application processing time by **40%**, helped **2,000+ users** budget effectively.
+- **🛠️ Tech Stack:** Next.js, TypeScript, MongoDB, Contentful CMS, Stripe, AWS S3.
 
 ---
 
 ### ✈️ Flight Buddy - Travelers Connection Platform
 > **Connecting travelers on long-distance flights for enhanced travel experience with innovative luggage sharing**
 
-**🎯 Vision:** Transform travel experience by facilitating meaningful connections and practical collaboration
-
-**✨ Key Features:**
-- **Flight-Based Traveler Matching** with intelligent compatibility algorithms
-- **Secure In-App Messaging** with end-to-end encryption
-- **Luggage Sharing Marketplace** with trust and safety features
-- **Real-Time Flight Status Updates** integrated with major airline APIs
-- **AI-Powered Compatibility Matching** based on interests and travel preferences
-- **Airport Guide Integration** with maps, amenities, and services
-
-**🛠️ Tech Stack:** React, Spring Boot, PostgreSQL, WebSocket, Docker, AWS, Redis
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/flightbuddy) | [Live Demo](https://flightbuddy.com/)
-
-**📈 Impact:** Beta testing shows 90% user satisfaction, projected 1,000+ monthly connections
+- **🎯 Vision:** Transform travel experience by facilitating meaningful connections and practical collaboration.
+- **✨ Key Features:** Flight-Based Traveler Matching, Luggage Sharing Marketplace, Real-Time Flight Status, AI-Powered Compatibility Matching.
+- **📈 Impact:** Beta testing shows **90% user satisfaction**, projected **1,000+ monthly connections**.
+- **🛠️ Tech Stack:** React, Spring Boot, PostgreSQL, WebSocket, Docker, AWS.
 
 ---
 
 ### 🏃‍♂️ Sports & Fitness Platform - FitConnect + TrainHub
 > **Dual-platform ecosystem combining sports venue booking and fitness trainer discovery**
 
-**🎯 Vision:** Create unified ecosystem for sports enthusiasts, fitness seekers, venue owners, and trainers
-
-**✨ Key Features:**
-- **FitConnect:** Venue Discovery & Booking System with real-time availability
-- **TrainHub:** Trainer Matching & Session Booking with skill-based filtering
-- **Sports Community & Game Coordination** for team formation
-- **Fitness Tools & Progress Tracking** with comprehensive analytics
-- **Geolocation-based Search** with distance and amenity filtering
-- **Payment Processing & Subscriptions** with flexible pricing models
-
-**🛠️ Tech Stack:** Next.js, Node.js, MongoDB, PostgreSQL, Google Maps, Stripe, Socket.io
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/sportsplatform) | [Live Demo](https://sportsplatform.com/)
-
-**📈 Impact:** Increased bookings by 60%, reduced scheduling conflicts by 75%
+- **🎯 Vision:** Create a unified ecosystem for sports enthusiasts, fitness seekers, venue owners, and trainers.
+- **✨ Key Features:** Venue Discovery & Booking (FitConnect), Trainer Matching & Session Booking (TrainHub), Sports Community, Geolocation-based Search.
+- **📈 Impact:** Increased bookings by **60%**, reduced scheduling conflicts by **75%**.
+- **🛠️ Tech Stack:** Next.js, Node.js, MongoDB, PostgreSQL, Google Maps, Stripe.
 
 ---
 
 ### 🏥 HealthRecords - Secure Health Management System
 > **End-to-end health records management tracking patients from birth through entire healthcare journey**
 
-**🎯 Vision:** Improve healthcare outcomes through comprehensive, secure, and accessible health data management
-
-**✨ Key Features:**
-- **Complete Patient Lifecycle Tracking** from birth to ongoing care
-- **Secure Document Management** with encrypted storage and access controls
-- **Prescription & Medication Management** with drug interaction checking
-- **Emergency Access Features** for critical health information
-- **HIPAA Compliance** with comprehensive audit trails
-- **Healthcare Provider Portal** with comprehensive patient views
-
-**🛠️ Tech Stack:** Next.js, TypeScript, PostgreSQL, AWS, HIPAA Compliance, Prisma ORM
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/healthrecords) | [Live Demo](https://healthrecords.com/)
+- **🎯 Vision:** Improve healthcare outcomes through comprehensive, secure, and accessible health data management.
+- **✨ Key Features:** Complete Patient Lifecycle Tracking, Secure Document Management, Prescription & Medication Management, Emergency Access, **HIPAA Compliance**.
+- **🛠️ Tech Stack:** Next.js, TypeScript, PostgreSQL, AWS, HIPAA Compliance, Prisma ORM.
 
 ---
 
-## 🔍 Core Development Projects
+### **Additional Noteworthy Projects (Quick Links)**
 
-### 🌤️ WeatherWise - Real-Time Weather Tracking Application
-A comprehensive weather tracking app with geolocation-based forecasts and interactive maps using Leaflet.js, improving API response times by 10%.
-
-**🛠️ Tech Stack:** ReactJS, Java Spring Boot, Leaflet.js, OpenWeatherMap API, Axios, Docker, AWS
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/weatherwise) | [Live Demo](https://weatherwise.online/)
-
-### 💼 JobFinder - Job Search and Application Platform
-A dynamic job search platform integrating Adzuna API for real-time listings, improving search relevance by 25% through advanced filtering capabilities.
-
-**🛠️ Tech Stack:** React, TailwindCSS, Adzuna API, React Router, Redux, Vercel
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/jobfinder) | [Live Demo](https://job-finder-pink-mu.vercel.app/)
-
-### 🔍 PixelPeek - Chrome Extension for Media Dimension Analysis
-A Chrome extension for real-time media dimension analysis, ensuring privacy by processing all data locally. **1000+ active users.**
-
-**🛠️ Tech Stack:** JavaScript, HTML5, CSS3, Chrome Extensions API
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/pixelpeek) | [Chrome Store](https://chromewebstore.google.com/detail/pixelpeek/ffdgajgkgcjecfimkhpaopkhfoekjhnb)
-
-### 📸 TrueScreenshot - VS Code Extension for Accurate Code Screenshots
-VS Code extension for capturing exact visual replicas of code with syntax highlighting, preserving complete visual state including error indicators.
-
-**🛠️ Tech Stack:** TypeScript, VS Code API, HTML Canvas, Node.js, Webpack
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/True-Screenshot) | [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=srujanchidarla.truescreenshot)
-
-### 🛒 E-Commerce Platform (MERN Stack)
-A full-featured shopping platform with secure payments and product reviews, using PayPal API and MongoDB for robust data management.
-
-**🛠️ Tech Stack:** MongoDB, Express, React, Node.js, Redux, PayPal API, JWT, AWS S3
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/M.R.P.F)
-
-### 🏃‍♂️ Agile Retrospective Tool - Team Collaboration Platform
-Team collaboration platform developed at Cognizant, integrating Azure DevOps APIs for streamlined project management and reducing page load times by 30%.
-
-**🛠️ Tech Stack:** Angular, Spring Boot, Azure DevOps API, MongoDB, WebSockets, AWS
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/agile-retro)
-
-### 📱 Make a Receipt - Mobile App for Digital Receipt Management
-React Native mobile application for digital receipt management, supporting 5,000+ users with real-time data storage and cross-platform functionality.
-
-**🛠️ Tech Stack:** React Native, Firebase, Redux, Cloud Firestore, Firebase Auth, Expo
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/make-receipt) | [Play Store](https://play.google.com/store/apps/details?id=com.makeareceipt)
-
-### ✅ Interactive To-Do List - Task Management Application
-A minimalistic yet powerful task management app built with vanilla JavaScript, demonstrating core web technologies and responsive design principles.
-
-**🛠️ Tech Stack:** HTML5, CSS3, JavaScript, LocalStorage API
-**🔗 Links:** [GitHub](https://github.com/srujanchidarla/Todo) | [Live Demo](https://interactive-todo.com/)
+| Project | Description | Key Tech Stack |
+| :--- | :--- | :--- |
+| **WeatherWise** | Real-Time Global Weather Tracking with geolocation and interactive maps. | ReactJS, Java Spring Boot, Leaflet.js |
+| **JobFinder** | Dynamic Job Search Platform with real-time Adzuna API listings and filtering. | React, TailwindCSS, Adzuna API, Vercel |
+| **PixelPeek** | Chrome Extension for real-time media dimension analysis (1000+ active users). | JavaScript, HTML5, Chrome Extensions API |
+| **TrueScreenshot** | VS Code Extension for capturing visual replicas of code with syntax highlighting. | TypeScript, VS Code API |
+| **E-Commerce Platform** | Full-featured shopping platform with secure PayPal API payments. | MERN Stack, Redux, PayPal API |
+| **Agile Retro Tool** | Internal team collaboration platform built at Cognizant. | Angular, Spring Boot, Azure DevOps API |
 
 ## 🏆 Professional Experience
 
 ### 💼 Full Stack Web Developer | WalletGyde (Current - 12/2024 – 05/2025)
-- **Spearheaded development** of responsive financial platform using Next.js and Supabase
-- **Implemented RESTful APIs** that increased user engagement by 35% and reduced transaction processing time by 40%
-- **Optimized website performance** and security protocols by 25%, enhancing SEO rankings and mobile responsiveness by 30%
-- **Tech Stack:** Next.js, Supabase, RESTful APIs, Google Lighthouse optimization
+- **Spearheaded development** of responsive financial platform using Next.js and Supabase.
+- **Implemented RESTful APIs** that increased user engagement by **35%** and reduced transaction processing time by **40%**.
+- **Optimized website performance** and security protocols by **25%**, boosting mobile responsiveness by **30%**.
+- **Tech Stack:** Next.js, Supabase, RESTful APIs, Google Lighthouse optimization.
 
 ### 💼 Full Stack Developer | Cognizant Technology Solutions (03/2021 – 04/2024)
-- **Revamped Agile Retrospective Tool's** Angular frontend with component-based architecture, reducing codebase by 15%
-- **Optimized SPA routing** architecture and service-based API integrations, decreasing page load times by 30%
-- **Designed scalable Spring Boot microservices** that processed 2M+ daily requests with 99.9% uptime
-- **Synchronized sprint data** across enterprise platforms through Azure DevOps APIs, improving team productivity by 20%
-- **Led hardware testing automation** project that raised efficiency by 15%
-- **Tech Stack:** Angular, Spring Boot, PostgreSQL, Azure DevOps, MVC Architecture
+- **Revamped Agile Retrospective Tool's** Angular frontend, reducing codebase by **15%** and enhancing maintainability.
+- **Optimized SPA routing** and API integrations, decreasing page load times by **30%**.
+- **Designed scalable Spring Boot microservices** that processed **2M+ daily requests** with **99.9% uptime**.
+- **Synchronized sprint data** through Azure DevOps APIs, improving team productivity by **20%**.
+- **Led hardware testing automation** project that raised efficiency by **15%**.
+- **Tech Stack:** Angular, Spring Boot, PostgreSQL, Azure DevOps, MVC Architecture.
 
 ## 🌍 Google Local Guide Contributions
 
 **🏅 Level 8 Local Guide** with significant contributions to Google Maps:
 - **31,038 points** earned through quality contributions
-- **5,444 total contributions** including reviews, photos, and answers
 - **4,109 photos** uploaded with **16.6M+ views**
-- **242 followers** in the Local Guide community
-- **Special badges:** Explorer, Sanchari
 - **Areas of expertise:** Hyderabad, Biryani, Family Restaurants
 
 ## 🏆 Sports Achievements
@@ -243,18 +153,18 @@ A minimalistic yet powerful task management app built with vanilla JavaScript, d
 
 ## 🎓 Education
 
-**Master's in Computer Science** | University of Fairfax | **GPA: 4.0/4.0** (08/2024 – 12/2025)
+**Master's in Computer Science** | University of Fairfax | **GPA: 4.0/4.0** (08/2024 – **08/2026**)
 **Bachelor's in Information Technology** | VNR Vignana Jyothi Institute | **GPA: 3.8/4.0** (08/2018 – 08/2021) | *Graduated with Honors*
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srujanchidarla&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+[![Srujan Chidarla's GitHub Stats](https://github-readme-stats.vercel.app/api?username=srujanchidarla&theme=radical&show_icons=true&hide_border=false&include_all_commits=true&count_private=true)](https://github.com/srujanchidarla)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srujanchidarla&theme=dark&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=srujanchidarla&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srujanchidarla&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srujanchidarla&layout=compact&theme=radical&hide_border=false)](https://github.com/srujanchidarla/github-readme-stats)
 
 </div>
 
