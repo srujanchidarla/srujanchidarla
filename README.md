@@ -1,19 +1,19 @@
 # Hi there 👋
 
-My name is **Srujan Chidarla**. I am a **Full Stack Developer** currently pursuing my **Master's in Computer Science** at **University of Fairfax** with a **4.0/4.0 GPA** (08/2024 – 08/2026).
+I'm **Srujan Chidarla**, a **Full-Stack Engineer** and **Master of Science in Computer Science graduate** from the **University of Fairfax** with a **4.0/4.0 GPA**.
 
-## 🌟 About Me:
+I build scalable systems, ship complete products, and enjoy thinking deeply about distributed systems, AI/LLM integration, and reliable developer workflows.
 
-* 🔭 Recently worked as a **Full Stack Web Developer at WalletGyde**
-* 🌱 Focusing on **Full-Stack Development, AI Integration, and Innovative Tech Solutions**
-* 💼 Previously worked at **Cognizant Technology Solutions** as a Full Stack Developer
-* 🚀 Built **13+ innovative projects** across AgriTech, HealthTech, EdTech, Travel Tech, and Sports Tech
-* 🌍 **Google Local Guide Level 8** with 45K+ points and 41M+ photo views
-* 💻 Creator of **PixelPeek** Chrome extension and **TrueScreenshot** VS Code extension
-* 🏆 **Multiple state-level sports achievements** in handball and athletics
-* 🎯 **YouTube-style Portfolio:** [srujanchidarla.com](https://srujanchidarla.com)
+## 👨‍💻 Professional Summary
 
-## 🔗 Socials:
+* 🚀 3+ years of production engineering experience supporting systems handling **2M+ requests/day** at **99.9% uptime**
+* 🧩 Full-stack engineer experienced across frontend, backend, cloud infrastructure, distributed systems, and CI/CD
+* 🤖 Actively exploring practical **AI/LLM integration**, multi-provider routing, streaming, and failover patterns
+* 🏗️ Built and shipped products across financial technology, travel, productivity, and AI platforms
+* 🧠 Strong foundation in system design, algorithms, microservices, concurrency, and reliability engineering
+* 🏅 Athletics background that shaped my discipline, consistency, and team-first mindset
+
+## 🔗 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/srujan-chidarla/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-%23000000.svg?style=for-the-badge\&logo=firefox\&logoColor=#FF7139)](https://srujanchidarla.com)
@@ -22,81 +22,108 @@ My name is **Srujan Chidarla**. I am a **Full Stack Developer** currently pursui
 
 ---
 
-## 🚀 Latest Innovative Projects Portfolio
+## 🛠️ Technical Skills
 
-### 🌾 AgriWise – Digital Agriculture Ecosystem
+### Programming & Frameworks
 
-* AI‑powered soil & crop recommendations
-* Real‑time market prices from 2500+ mandis
-* Hyperlocal weather alerts
-* Multi‑language support & offline‑first
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
 
-### 🎓 StudyGlobal – International Student Platform
+### Systems & Infrastructure
 
-* Essential services hub (banking, housing, insurance)
-* Cost of living calculator
-* University matching algorithm
-* Secure document vault
+* Data structures and algorithms, distributed systems, microservices, concurrency, and failover patterns
+* REST and SSE APIs, Unix/Linux, Docker, CI/CD, GitHub Actions, and Azure DevOps
 
-### ✈️ Flight Buddy – Traveler Networking Platform
+### Databases & Cloud
 
-* Flight‑based traveler matching
-* Secure messaging & luggage‑sharing marketplace
-* Real‑time flight tracking
+* **Databases:** PostgreSQL, MySQL, MongoDB, Firebase, SQLite
+* **Cloud:** AWS (EC2, S3, Lambda), GCP, Supabase
 
-### 🏃‍♂️ FitConnect + TrainHub – Sports & Fitness Ecosystem
+### AI & Productivity Tools
 
-* Venue booking system
-* Trainer discovery & scheduling
-* Community sports coordination
-
-### 🏥 HealthRecords – Secure Patient Data System
-
-* Full lifecycle health tracking
-* Encrypted record storage
-* Provider dashboard
+* Claude, Gemini, Groq, Cursor, and AI-assisted design, coding, testing, and documentation workflows
 
 ---
 
-## 🏆 Professional Experience
+## 💼 Professional Experience
 
-### 💼 Full Stack Web Developer | WalletGyde (12/2024 – 05/2025)
+### Full-Stack Web Developer Intern | WalletGyde
+**Denver, USA · December 2024 – May 2025**
 
-* Increased user engagement by 35%
-* Improved transaction processing by 40%
-* Enhanced SEO & performance by 30%
+* Architected a responsive financial platform using **Next.js** and **Supabase** with RESTful APIs
+* Increased user engagement by **35%** through product and frontend improvements
+* Reduced transaction processing time by **40%** through backend optimization and database schema refinement
+* Improved website security protocols and frontend performance, increasing SEO rankings and mobile responsiveness scores by **30%** according to Google Lighthouse metrics
 
-### 💼 Full Stack Developer | Cognizant Technology Solutions (03/2021 – 04/2024)
+### Software Engineer | Cognizant Technology Solutions
+**Hyderabad, India · March 2021 – April 2024**
 
-* Reduced codebase by 15%
-* 30% faster SPA load times
-* Built microservices handling 2M+ daily requests
-* Improved team productivity by 20%
-
----
-
-## 🌍 Google Local Guide
-
-* **Level 8 Guide**
-* **45,038 points**, **6,109 photos**, **41.6M+ views**
-* Expertise: Hyderabad, Biryani, Family Restaurants
+* Designed, developed, tested, and maintained **Spring Boot microservices** serving **2M+ requests/day** at **99.9% uptime** for 500+ enterprise users
+* Reduced P99 latency from approximately **250ms to 50ms** through query indexing, API-hop analysis, and load-aware tuning
+* Improved frontend performance by **30%** through Angular routing optimization and SPA best practices
+* Integrated Azure DevOps APIs across platforms, improving team productivity by **20%**
+* Managed CI/CD infrastructure with Docker, GitHub Actions, and deployment automation across development, staging, and production environments
 
 ---
 
-## 🏆 Sports Achievements
+## 🚀 Featured Projects
 
-* 🥇 State‑Level Handball – Gold
-* 🥉 State‑Level High Jump – Bronze
-* 🥇 4x100m Relay – Gold
-* 🥇 4x400m Relay – Gold
+### [JOBHUNTOS](https://chromewebstore.google.com/) — Production LLM Workflow Tool
+**TypeScript · Node.js · Express · SSE · Claude · Gemini · Groq**
+
+* Shipped a Chrome Manifest V3 product that streamlines job-application workflows across **100+ ATS formats**, reducing applications to approximately two minutes
+* Designed multi-provider LLM routing with timeouts, automatic failover, and SSE streaming
+* Applied distributed-systems reliability patterns, including unhealthy-provider recovery and graceful degradation
+
+### WILDMATE — Real-Time Full-Stack App
+**React 19 · Node.js · MongoDB · Socket.io · JWT**
+
+* Designed and deployed a real-time trip-coordination platform across **15+ US metropolitan hubs**
+* Implemented WebSockets, geospatial search, JWT authentication, and real-time collaboration features
+* Added multi-provider LLM fallbacks that transform natural-language requests into structured itineraries
+* Demonstrates end-to-end ownership from product design through production deployment
+
+### NEOCORTEX — Multi-Agent Backend System
+**Python · FastAPI · Next.js · Expo · SQLite**
+
+* Architecting a **15-agent system** with inter-agent coordination and local SQLite persistence
+* Designed a **six-provider LLM failover chain** with a safety layer and per-agent kill switches
+* Implemented **37+ backend test suites** with local-first reliability when external providers fail
+* Exploring scalable AI orchestration, resilience, and safe agentic system design
 
 ---
 
 ## 🎓 Education
 
-**Master's in Computer Science | University of Fairfax | GPA: 4.0/4.0 (08/2024 – 08/2026)**
+### Master of Science in Computer Science | University of Fairfax
+**August 2024 – August 2026 · GPA: 4.0/4.0**
 
-**Bachelor's in Information Technology | VNR VJIET | GPA: 3.8/4.0 | Graduated with Honors**
+Relevant coursework: Advanced Algorithms, System Design, Distributed Systems, Computer Networks (TCP/IP, BGP/OSPF), and AI/ML Integration.
+
+### Bachelor of Technology in Information Technology | VNR Vignana Jyothi Institute of Engineering & Technology
+**August 2018 – August 2021 · GPA: 3.8/4.0 · Graduated with Honors**
+
+---
+
+## 🏅 Certifications
+
+Angular · Modern Java · ReactJS · JavaScript · Git · MySQL · Google UX Design · Cisco Packet Tracer · Bootstrap · Prompt Engineering · HTML & CSS · Next.js · React Native · Generative AI
+
+---
+
+## 🌍 Open Source & Community
+
+* 💻 **40+ GitHub repositories** and **350+ contributions per year**
+* 🦈 GitHub **Pull Shark** achievement
+* 📍 **Google Local Guide Level 9** with **10,000+ contributions** and **65M+ photo views**
 
 ---
 
@@ -114,25 +141,14 @@ My name is **Srujan Chidarla**. I am a **Full Stack Developer** currently pursui
 
 ---
 
-## 🏅 Certifications
-
-![Angular](https://img.shields.io/badge/ANGULAR-Certified-red?style=for-the-badge\&logo=angular)
-![Java](https://img.shields.io/badge/MODERN_JAVA-Certified-orange?style=for-the-badge\&logo=openjdk)
-![React](https://img.shields.io/badge/REACTJS-Certified-blue?style=for-the-badge\&logo=react)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-Certified-yellow?style=for-the-badge\&logo=javascript)
-![Git](https://img.shields.io/badge/GIT-Certified-black?style=for-the-badge\&logo=git)
-![MySQL](https://img.shields.io/badge/MYSQL-Certified-blue?style=for-the-badge\&logo=mysql)
-
----
-
 <div align="center">
 
-### 🤝 Let's Connect and Build Something Amazing!
+### 🤝 Let's Build Something Meaningful
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/srujan-chidarla/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge\&logo=firefox)](https://srujanchidarla.com)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:srujanchidarla.uof@gmail.com)
 
-⭐ **Transforming ideas into innovative digital solutions**
+⭐ **Building reliable systems and innovative digital products.**
 
 </div>
