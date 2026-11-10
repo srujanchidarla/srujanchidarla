@@ -153,11 +153,10 @@ Also: Learning Next.js · React Native · Postman · Cisco Packet Tracer · Angu
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srujanchidarla\&theme=dark\&hide_border=false\&show_icons=true)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srujanchidarla&theme=github_dark" alt="GitHub Stats" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=srujanchidarla&theme=github_dark" alt="Top Languages" height="180" />
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=srujanchidarla\&theme=dark\&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srujanchidarla\&layout=compact\&theme=dark\&hide_border=false)
 
 </div>
 
