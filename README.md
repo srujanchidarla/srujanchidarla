@@ -79,12 +79,14 @@ I have 3+ years building full-stack systems that serve **2M+ requests/day** at *
 ## 🚀 Featured Projects
 
 ### [ALGOCHRONICLE](https://www.algochronicle.com/) — Free DSA Learning Platform
-**Next.js · TypeScript · Firebase · GitHub Webhooks · Vercel**
+**Founder & developer · Next.js · TypeScript · Firebase · GitHub Webhooks · Vercel**
 
-* Built a free DSA platform with a **198-problem roadmap** across 16 levels and an in-browser editor that runs Python, Java and C++
+[![Download on the App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/id6822800371)
+
+* Built a free DSA platform with a **199-problem roadmap** across 16 levels and an in-browser editor that runs Python, Java and C++
 * Fixed a Vercel CPU-limit outage with time-based caching and idempotent jobs, cutting server time per page from **~290 ms to ~2 ms**
 * Automated publishing: a GitHub webhook pushes every solved problem to the site
-* **379 tested optimal solutions**, interview tags for **419 companies**, and Android & iOS apps in testing
+* **379 tested optimal solutions**, interview tags for **419 companies**, an **iPhone app live on the App Store**, and Android in testing
 
 ### [JOBHUNTOS](https://chromewebstore.google.com/detail/jobhuntos/cmdfelnbelngbjahjeglfkaoeclcnjec) — Production LLM Workflow Tool
 **TypeScript · Node.js · Express · SSE · Claude · Gemini · Groq**
