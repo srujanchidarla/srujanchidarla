@@ -166,7 +166,7 @@ Also: Learning Next.js · React Native · Postman · Cisco Packet Tracer · Angu
 
 <div align="center">
 
-### 🤝 Let's Build Something Meaningful
+### 🤝 Let's Build Something Meaningful together
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/srujan-chidarla/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge\&logo=firefox)](https://srujanchidarla.com)
